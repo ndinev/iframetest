@@ -1,0 +1,45 @@
+{
+  "ProjectName": "kendo drawer no iframe",
+  "ProjectGuid": "e0a10a53-6873-40e7-a42e-83ce75b5262d",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.kendodrawernoiframe",
+  "DisplayName": "kendo drawer no iframe",
+  "Author": "",
+  "Description": "kendo drawer no iframe",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{84a8ceac-dfef-4cc8-ba25-6bf4f4e4d06e}",
+  "WP8ProductID": "{fa004ee8-dd12-495a-a162-d9d905e92c6a}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.kendodrawernoiframe",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
